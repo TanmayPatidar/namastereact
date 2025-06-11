@@ -1,0 +1,14 @@
+{
+  "name": "trp-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "junit"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  }
+}
